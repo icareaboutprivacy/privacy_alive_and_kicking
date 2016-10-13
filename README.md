@@ -850,7 +850,7 @@ Chat / Text / Audio (voice) / Video
 	- No Bluetooth
 	- No WiFi
 	- No GPS
-- Privacy setttings
+- Privacy settings
 	- Android
 	- iOS
 
