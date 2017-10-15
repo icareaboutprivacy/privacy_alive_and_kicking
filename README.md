@@ -1,4 +1,4 @@
-#Privacy: Alive and Kicking
+# Privacy: Alive and Kicking
 
 
 
@@ -13,31 +13,31 @@ You grant the presenter the right to use all information you disclose as well as
 
 
 
-##Privacy: what is it and why does it matter?
+## Privacy: what is it and why does it matter?
 
 
 
-###What is privacy?
+### What is privacy?
 
 
 There are a number of varying definitions of privacy.  The meaning of privacy may also differ based on context; privacy in the legal sense may not be the same as privacy in the philosophical sense.  Several definitions of them center on similar points.  Ultimately privacy may not have the same meaning to you as it does to me or to others, but the following sources may be able to communicate this message more effectively.
 
 
-#####From a crowdsourced encyclopedia:
+##### From a crowdsourced encyclopedia:
 
 >**Privacy** is the ability of an individual or group to seclude themselves, or information about themselves, and thereby express themselves selectively. The boundaries and content of what is considered private differ among cultures and individuals, but share common themes. When something is private to a person, it usually means that something is inherently special or sensitive to them.
 >
 >_[Wikipedia](https://en.wikipedia.org/wiki/Privacy "Entry for privacy")_
 
 
-#####From an encyclopedia of philosophy
+##### From an encyclopedia of philosophy
 
 >The term _privacy_ is used frequently in ordinary language as well as in philosophical, political and legal discussions, yet there is no single definition or analysis or meaning of the term. The concept of privacy has broad historical roots in sociological and anthropological discussions about how extensively it is valued and preserved in various cultures. ... Privacy can refer to a sphere separate from government, a domain inappropriate for governmental interference, forbidden views and knowledge, solitude, or restricted access, to list just a few.
 >
 >_[Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/privacy/ "Entry for privacy")_
 
 
-#####From a dictionary:
+##### From a dictionary:
 
 >the state of being alone
 >
@@ -48,14 +48,14 @@ There are a number of varying definitions of privacy.  The meaning of privacy ma
 >_[Merriam-Webster](http://www.merriam-webster.com/dictionary/privacy "Entry for privacy")_
 
 
-#####From a professional association:
+##### From a professional association:
 
 >Broadly speaking, privacy is the right to be let alone, or freedom from interference or intrusion. Information privacy is the right to have some control over how your personal information is collected and used.
 >
 >_[The International Association of Privacy Professionals (IAPP) - What does privacy mean?](https://iapp.org/about/what-is-privacy/ "What does privacy mean?")_
 
 
-#####From activist group:
+##### From activist group:
 
 >Privacy enables us to create barriers and manage boundaries to protect ourselves from unwarranted interference in our lives, which allows us to negotiate who we are and how we want to interact with the world around us. Privacy helps us establish boundaries to limit who has access to our bodies, places and things, as well as our communications and our information.
 >
@@ -64,21 +64,21 @@ There are a number of varying definitions of privacy.  The meaning of privacy ma
 >_[Privacy International](https://www.privacyinternational.org/node/54 "What is Privacy")_
 
 
-#####From an activist:
+##### From an activist:
 
 >_Privacy_ doesn’t mean that no one in the world knows about your business. It means that you get to choose who knows about your business.
 >
 >_[Cory Doctorow](http://www.tor.com/2014/05/27/you-are-not-a-digital-native-privacy-in-the-age-of-the-internet/ "You Are Not a Digital Native: Privacy in the Age of the Internet")_
 
 
-#####From a published law review:
+##### From a published law review:
 
 >These considerations lead to the conclusion that the protection afforded to thoughts, sentiments, and emotions, expressed through the medium of writing or of the arts, so far as it consists in preventing publication, is merely an instance of the enforcement of the more general right of the individual to be let alone.
 >
 >_[Harvard Law Review Vol. IV No. 5 - The Right to Privacy](http://groups.csail.mit.edu/mac/classes/6.805/articles/privacy/Privacy_brand_warr2.html "The Right to Privacy")_
 
 
-#####From another published law review
+##### From another published law review
 
 >What has emerged from the decisions is no simple matter. It is not one tort, but a complex of four ... described as follows:
 >
@@ -99,7 +99,7 @@ There are a number of varying definitions of privacy.  The meaning of privacy ma
 >_[Anil Dash](https://medium.com/message/what-is-public-f33b16d780f9 "What is Public")_
 
 
-#####From law enforcement:
+##### From law enforcement:
 
 >Technology has forever changed the world we live in. We’re online, in one way or another, all day long. Our phones and computers have become reflections of our personalities, our interests, and our identities. They hold much that is important to us.
 >
@@ -113,25 +113,25 @@ There are a number of varying definitions of privacy.  The meaning of privacy ma
 >_[Bernard Williams](http://www.nybooks.com/articles/1985/04/25/private-faces-and-public-places/ "Private Faces and Public Places")_
 
 
-#####From a psychologist
+##### From a psychologist
 >Privacy is an outcome of a person's wish to withhold from others certain knowledge as to his past and present experience and action and his intentions for the future. The wish for privacy expresses a desire to be an enigma to others or, more generally, a desire to control others' perceptions and beliefs vis-a'-vis the self-concealing person. A man may seek to elude others' direct experience of his action, and he may seek to distort or misrepresent his experiencing to others in order that their view of him will not coincide with his direct view and knowledge of himself.
 >
 >_[Sidney M. Jourard, Some Psychological Aspects of Privacy, 31 Law and Contemporary Problems 307-318 (Spring 1966)](http://scholarship.law.duke.edu/lcp/vol31/iss2/5 "Some Psychological Aspects of Privacy")_
 
 
-#####Professor of Public Law & Government/President of the Center for Social & Legal Research
+##### Professor of Public Law & Government/President of the Center for Social & Legal Research
 >Privacy may be defined as the claim of individuals, groups or institutions to determine when, how and to what extent information about them is communicated to others.
 >
 >_Westin AF, Privacy and Freedom New York: Atheneum, 1967, page 7_
 
 
-#####Solicitor General of the United States/Associate Justice of the Massachusetts Supreme Judicial Court
+##### Solicitor General of the United States/Associate Justice of the Massachusetts Supreme Judicial Court
 >Privacy is not simply an absence of information about us in the minds of others, rather it is the control we have over information about ourselves.
 >
 >_Charles Fried (1984) p. 209_
 
 
-#####Associate Professor of Philosophy (Santa Clara University)
+##### Associate Professor of Philosophy (Santa Clara University)
 >[P]rivacy is the condition of a person’s not having undocumented personal information about himself known by others.
 >
 >_[William A. Parent](http://www.jstor.org/stable/2265374 "Privacy, Morality, and the Law")_
@@ -139,7 +139,7 @@ There are a number of varying definitions of privacy.  The meaning of privacy ma
 
 
 
-###Why does privacy matter?
+### Why does privacy matter?
 
 
 >Freedom from surveillance, whether public or private, is foundational to the practice of informed and reflective citizenship.  Privacy therefore is an indispensable structural feature of liberal democratic political systems.  Freedom from surveillance also is foundational to the capacity for innovation, and so the perception of privacy as anti-innovation is a non sequitur. ... In short, privacy incursions harm individuals, but not only individuals. Privacy incursions in the name of progress, innovation, and ordered liberty jeopardize the continuing vitality of the political and intellectual culture that we say we value.
@@ -152,19 +152,19 @@ There are a number of varying definitions of privacy.  The meaning of privacy ma
 >_[FBI Director James B. Comey](https://www.fbi.gov/news/speeches/going-dark-are-technology-privacy-and-public-safety-on-a-collision-course "Going Dark: Are Technology, Privacy, and Public Safety on a Collision Course?")_
 
 
-#####Sociologist/Dramatologist
+##### Sociologist/Dramatologist
 >[Front stage is] that part of the individual's performance which regularly functions in a general and fixed fashion we define the situation for those who observe the performance. Front, then, is the expressive equipment of a standard kind intentionally or unwittingly employed by the individual during his performance. ... [Back stage is where] the performer can relax; he can drop his front, forgo speaking in his lines, and step out of character. ... [Outside, or off-stage, is the place where individuals are not involved in the performance (although they may not be aware of it).]
 >
 >_Erving Goffman "The Presentation of Self in Everyday Life"_
 
 
-#####Encyclopedia of Philosophy
+##### Encyclopedia of Philosophy
 >Human beings value their privacy and the protection of their personal sphere of life. They value some control over who knows what about them. They certainly do not want their personal information to be accessible to just anyone at any time. But recent advances in information technology threaten privacy and have reduced the amount of control over personal data and open up the possibility of a range of negative consequences as a result of access to personal data. The 21st century has become the century of Big Data and advanced Information Technology allows for the storage and processing of exabytes of data.
 >
 >_[Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/it-privacy/ "Entry on Privacy and Information Technology")_
 
 
-#####The United Nations
+##### The United Nations
 
 >No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attack.
 >
@@ -199,7 +199,7 @@ There are a number of varying definitions of privacy.  The meaning of privacy ma
 
 
 
-##Lessons from history
+## Lessons from history
 
 
 >Indicators of the lifestyle of the house's occupants can be gleaned from their construction, favouring spatial seclusion and separation. Exterior walls continued a single street door, and high windows, both practical for reasons of security where opened directly onto busy roads. Views into the house were dark and narrow, and angled into hallway spaces,blocking views further into the house from the street outside. Suites of rooms, some interconnecting, opened onto a central courtyard space,which provided the main sourceof light for the house. ... Interior windows provided light rather than observation portals, as much of the ground floor would have been in darkness.
@@ -207,48 +207,48 @@ There are a number of varying definitions of privacy.  The meaning of privacy ma
 >_[Delos: Investigating the notion of privacy within the ancient Greek house](https://lra.le.ac.uk/handle/2381/8947 "Dr. Samantha Burke, University of Leicester")_
 
 
-#####Greek philiosophy
+##### Greek philiosophy
 >Socrates claims that the model of the just city cannot come into being until philosophers rule as kings or kings become philosophers (473c-d).  He also points out that this is the only possible route by which to reach complete happiness in both public and private life (473e).
 >
 >_Plato (Republic)_
 
 
-#####Aristotle (Oikos vs Polis)
+##### Aristotle (Oikos vs Polis)
 >Aristotle's distinction between the public sphere of politics and political activity, the polis, and the private or domestic sphere of the family, the oikos, as two distinct spheres of life, is a classic reference to a private domain.
->_http://plato.stanford.edu/entries/privacy/#His_
+>_http://plato.stanford.edu/entries/privacy/# His_
 
 >Those citizens who have the best abilities should never be obliged to do anything unworthy their character, but be always at leisure to serve the public, not only when in office, but also when private persons.
 >
 >_Aristotle (Politics)_
 
 
-#####Pliny
+##### Pliny
 
 >Great fortune has this characteristic, that it allows nothing to be concealed, nothing hidden; it opens up the homes of princes, and not only that but their bedrooms and intimate retreats, and it opens up and exposes to talk all the arcane secrets.
 >
 >_[The Natural History](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137 "Pliny the Elder")_
 
 
-#####English Philosopher
+##### English Philosopher
 >The distinction here pointed out between the part of a person's life which concerns only himself, and that which concerns others, many persons will refuse to admit.
 >
 >_[John Stuart Mill](https://www.gutenberg.org/files/34901/34901-h/34901-h.htm "On Liberty (1859)")_
 
 
-#####The Founding Fathers of the United States of America
+##### The Founding Fathers of the United States of America
 >The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 >
->_[The Bill of Rights: Amendment IV](http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html#text "Fourth Amendment to the United States Constitution")_
+>_[The Bill of Rights: Amendment IV](http://www.archives.gov/exhibits/charters/bill_of_rights_transcript.html# text "Fourth Amendment to the United States Constitution")_
 
 
-#####Author and Philisopher
+##### Author and Philisopher
 
 >Civilization is the progress toward a society of privacy.  The savage's whole existence is public, ruled by the laws of his tribe.  Civilization is the process of setting man free from men.
 >
 >_Ayn Rand (The Fountainhead)_
 
 
-#####Nonprofit advocate for open medical data
+##### Nonprofit advocate for open medical data
 
 >We have been pretending that by removing enough information from databases that we can make people anonymous. We have been promising privacy, and this paper demonstrates that for a certain percent of a population, those promises are empty.
 >
@@ -261,7 +261,7 @@ There are a number of varying definitions of privacy.  The meaning of privacy ma
 
 
 
-##Paradigms to make informed decisions
+## Paradigms to make informed decisions
 About privacy-related matters
 
 
@@ -270,7 +270,7 @@ About privacy-related matters
 >_[Danah Boyd](http://www.danah.org/books/ItsComplicated.pdf "It's Complicated")_
 
 
-###Creation Model
+### Creation Model
 - Open Source
 	- Transparency/Auditability
 	- Community/Shallow bugs
@@ -294,7 +294,7 @@ About privacy-related matters
 >_[Wikipedia](https://en.wikipedia.org/wiki/Threat_model "Entry for Threat Model")_
 
 
-###Threat Modeling
+### Threat Modeling
 - Threats
 	- Stranger Danger
 	- Marketing
@@ -305,7 +305,7 @@ About privacy-related matters
 	- Cost to protect
 
 
-###Usability/Feasability
+### Usability/Feasability
 - Cross-platform
 	- What platforms do you use?
 	- What platforms do others use with whom you interact?
@@ -314,7 +314,7 @@ About privacy-related matters
 	- Perfect publicity is to obscure no information
 
 
-###Anonymization
+### Anonymization
 - Become one of the many
 - Removal of distingushing characteristics
 - Shared service
@@ -322,12 +322,12 @@ About privacy-related matters
 	- More commonality
 
 
-###Biometrics
+### Biometrics
 - TouchID
 - Samsung Galaxy S5 breach
 
 
-###Transparency
+### Transparency
 - How is it collected?
 - How is it stored?
 - How is it used?
@@ -335,13 +335,13 @@ About privacy-related matters
 - How is it removed/detroyed?
 
 
-###Knowledge
+### Knowledge
 - Full knowledge and inspection
 - Metadata
 - Zero knowledge
 
 
-###Legislation
+### Legislation
 - Privacy law
 - Copyright law
 - Right to be forgotten
@@ -354,7 +354,7 @@ About privacy-related matters
 >_[Wikipedia](https://en.wikipedia.org/wiki/Service_catalog "Entry for Service Catalog")_
 
 
-###Service Catalog
+### Service Catalog
 - What services do you use?
 - What do you use them for?
 - What do you *not* use them for?
@@ -362,52 +362,52 @@ About privacy-related matters
 - What information do you disclose to these services?
 
 
-###Publicity barrier
+### Publicity barrier
 - Things kept private are unknown
 - Once something is shared, it is no longer private and can never be so again
 
 
 
-##Strategies to apply
+## Strategies to apply
 Informed privacy decisions
 
 
-###Physical privacy
+### Physical privacy
 - Secure your device
 - Eavesdropping/microphone
 - Visual surveillance/webcam
 
 
-#####Webcam Privacy and the FBI 
+##### Webcam Privacy and the FBI 
 [![Center for Strategic and International Studies Keynote by FBI Director James Comey](http://img.youtube.com/vi/n95Hy5yWdcQ/0.jpg)](https://www.youtube.com/embed/n95Hy5yWdcQ?start=15930 "Center for Strategic and International Studies Keynote by FBI Director James Comey")
 
 _[James Comey](https://youtu.be/n95Hy5yWdcQ?t=4h25m30s "Center for Strategic and International Studies Keynote by FBI Director James Comey")_
 
 
-###Crazy Ivan
+### Crazy Ivan
 - Random datapoint generation
 - User agent switching
 
 
-###Assumed identity
+### Assumed identity
 - Generate identity
 - Acting
 
 
-###Encryption
+### Encryption
 - What to encrypt?
 - What encryption mechanism?
 - Point in the chain
 - End to end (e2e) encryption
 
 
-#####Encryption and Math
+##### Encryption and Math
 >Trust the math. Encryption is your friend. Use it well, and do your best to ensure that nothing can compromise it. That’s how you can remain secure even in the face of the NSA.
 >
 >_[Bruce Schneier](https://www.theguardian.com/world/2013/sep/05/nsa-how-to-remain-secure-surveillance "NSA surveillance: A guide to staying secure")_
 
 
-###Jante-technologies
+### Jante-technologies
 - You are nobody special
 - You are part of the noise
 
@@ -430,11 +430,11 @@ _[James Comey](https://youtu.be/n95Hy5yWdcQ?t=4h25m30s "Center for Strategic and
 
 
 
-##Datasets
+## Datasets
 That present privacy vulnerabilities
 
 
-###Medical records
+### Medical records
 - 4.9 million Tricare Management Activity records stolen from a Science Applications International Corporation employee car
 - Complete Health Systems of Tennessee network server was hacked and personal information was stolen - 4.5 million records
 - Advocate Health and Hospitals Corporation reported the theft of company computers, which impacted almost 4.03 million individuals
@@ -474,11 +474,11 @@ That present privacy vulnerabilities
 
 
 
-##Notable threats
+## Notable threats
 To privacy choices
 
 
-###Terms of Service/EULA
+### Terms of Service/EULA
 - [Terms of Service; Didn't Read](https://tosdr.org/ "TOS;DR")
 - [TOSBack](https://tosback.org/ "Terms of Service Tracker")
 - [OpenNotice](http://law.mit.edu/opennotice "OpenNotice")
@@ -490,7 +490,7 @@ To privacy choices
 _[Faust 2.0](https://xkcd.com/501/)_
 
 
-###Questions to ask yourself:
+### Questions to ask yourself:
 - What information does this product/service require me to provide in order to use it?
 - Do those requirements make sense?
 - Does this product/service collect any information in addition to what is required?
@@ -544,19 +544,19 @@ _[Faust 2.0](https://xkcd.com/501/)_
 >_[Cory Doctorow](http://www.locusmag.com/Perspectives/2016/09/cory-doctorowthe-privacy-wars-are-about-to-get-a-whole-lot-worse/ "The Privacy Wars Are About to Get a Whole Lot Worse")_
 
 
-###Breaches
+### Breaches
 
-####[Privacy Rights Clearinghouse list of data breaches](https://www.privacyrights.org/data-breaches)
+#### [Privacy Rights Clearinghouse list of data breaches](https://www.privacyrights.org/data-breaches)
 
 
-###Voice search
+### Voice search
 - Siri
 - Google Now
 - Cortana
 - Amazon Alexa
 
 
-###Other risks
+### Other risks
 - Big data analytics
 - Internet Service Providers
 	- Verizon cookie injection
@@ -578,21 +578,21 @@ _[Faust 2.0](https://xkcd.com/501/)_
 
 
 
-##Community resources available
+## Community resources available
 To maintain my privacy choices and how to contribute/help
 
 
-###Resources
+### Resources
 - [https://www.privacytools.io/](https://www.privacytools.io/)
 - [Guardian Project](https://guardianproject.info/)
 
 
-###Education
+### Education
 - [UtahSAINT](https://www.utahsaint.org/)
 - [Privacy Rights Clearinghouse](https://www.privacyrights.org/)
 
 
-###Lobbying groups
+### Lobbying groups
 - [Electronic Frontier Foundation](https://www.eff.org/)
 - [Electronic Privacy Information Center](http://www.epic.org/)
 - [American Civil Liberties Union](http://www.aclu.org/)
@@ -601,22 +601,22 @@ To maintain my privacy choices and how to contribute/help
 - [Center for Digital Democracy](http://www.democraticmedia.org/)
 
 
-###Activism
+### Activism
 - [Causes identified by the Electronic Frontier Foundation](https://act.eff.org/action)
 - [Infraguard](https://www.infragard.org/)
 
 
-###Ways to contribute
+### Ways to contribute
 - [Contribute code to PrivacyToolsIO](https://github.com/privacytoolsIO/privacytools.io)
 - [Donate to the Electronic Frontier Foundation](https://supporters.eff.org/donate/button)
 - https://www.epic.org/support/
 
 
 
-##Detractors that are the result of privacy choices
+## Detractors that are the result of privacy choices
 
 
-###Time factor
+### Time factor
 - Setup
 	- Installing software/hardware for privacy takes time
 - Regular use
@@ -628,30 +628,30 @@ To maintain my privacy choices and how to contribute/help
 >_[Danah Boyd](http://www.danah.org/books/ItsComplicated.pdf "It's Complicated")_
 
 
-###Missing Features
+### Missing Features
 - Privacy tools may cut out something you want
 - Some things are designed to give you a benefit in exchange for your information
 
 
-###Trade off
+### Trade off
 - Suggestions for you
 - Similar products
 - Curated experience
 
 
 
-##Tools to use
+## Tools to use
 To enact privacy choices
 
 
-###Web browsers
+### Web browsers
 - [Tor](https://www.torproject.org/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
     - [Firefox hardening](https://github.com/pyllyukko/user.js)
     - [Privacy Settings Addon](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/)
 
 
-###Getting started:
+### Getting started:
 
     privacy.trackingprotection.enabled = true
         This is Mozilla’s new built in tracking protection.
@@ -686,7 +686,7 @@ To enact privacy choices
         Even with Firefox set to not remember history, your closed tabs are stored temporarily at Menu -> History -> Recently Closed Tabs.
 
 
-###Browser Add-ons
+### Browser Add-ons
 - [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect) / [Disconnect (Chrome)](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo)
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) / [uBlock Origin (Chrome)](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Random Agent Spoofer](https://addons.mozilla.org/en-US/firefox/addon/random-agent-spoofer) / [Random User Agent (Chrome)](https://chrome.google.com/webstore/detail/random-user-agent/einpaelgookohagofgnnkcfjbkkgepnp)
@@ -698,7 +698,7 @@ To enact privacy choices
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript)
 
 
-###Browser Add-ons
+### Browser Add-ons
 - [Policeman](https://addons.mozilla.org/en-US/firefox/addon/policeman)
 - [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery) / [Ghostery (Chrome)](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij)
 - [Priv3+](https://addons.mozilla.org/en-US/firefox/addon/priv3plus)
@@ -710,14 +710,14 @@ To enact privacy choices
 - [RequestPolicy Continued](https://addons.mozilla.org/en-US/firefox/addon/requestpolicy-continued/)
 
 
-###Plugins
+### Plugins
 - [Java](http://java.com/disablejava)
 - Flash
 	- flash cookies
 	- flash object storage
 
 
-###Tracking mechanisms
+### Tracking mechanisms
 - Cookies
 - HTML5
 	- web storage
@@ -729,7 +729,7 @@ To enact privacy choices
 	- browser history
 
 
-###Communications
+### Communications
 Chat / Text / Audio (voice) / Video
 - [Signal](https://whispersystems.org/)
 - [Whatsapp](https://www.whatsapp.com/)
@@ -744,7 +744,7 @@ Chat / Text / Audio (voice) / Video
 - [Cryptocat](https://crypto.cat/)
 
 
-###E-mail
+### E-mail
 - PGP/GPG
 	- keysigning party
 	- key databases
@@ -758,7 +758,7 @@ Chat / Text / Audio (voice) / Video
 	- [Claws Mail](http://www.claws-mail.org/)
 
 
-###DNS
+### DNS
 - [OpenNICProject](https://www.opennicproject.org/)
 - [ClouDNS](https://www.cloudns.net/)
 - [NoTrack](https://github.com/quidsup/notrack)
@@ -769,21 +769,21 @@ Chat / Text / Audio (voice) / Video
 - Split-horizon DNS
 
 
-###TLS/HTTPS
+### TLS/HTTPS
 - Perfect forward secrecy
 - Let's Encrypt
 
 
-###Algorithms
+### Algorithms
 
 
-###Location Services
+### Location Services
 - GPS
 - A-GPS
 - WiFi
 
 
-###VPN
+### VPN
 - Paid VPN
 	- [Private Internet Access](https://www.privateinternetaccess.com/)
 	- [VyprVPN](https://www.goldenfrog.com/vyprvpn)
@@ -806,14 +806,14 @@ Chat / Text / Audio (voice) / Video
 - [Windscribe](https://windscribe.com/)
 
 
-###Anonymous networks
+### Anonymous networks
 - Tor Browser
 - Tails
 - Orbot
 - I2P
 
 
-###Radio/Wireless
+### Radio/Wireless
 - WiFi probe
 - WiFi location
 - adding _nomap
@@ -828,8 +828,8 @@ Chat / Text / Audio (voice) / Video
 ![Cloud](thereisnocloud-sticker-74mm.png)
 
 
-###Appliances/Hardware
-####Open source options
+### Appliances/Hardware
+#### Open source options
 - [pfSense](https://www.pfsense.org/)
 - [DD-WRT](http://www.dd-wrt.com/)
 - [OpenWrt](https://openwrt.org/)
@@ -838,13 +838,13 @@ Chat / Text / Audio (voice) / Video
 - [OpenBSD](https://www.openbsd.org/)
 
 
-###Search engines
+### Search engines
 - [DuckDuckGo](https://duckduckgo.com)
 - [Startpage](https://startpage.com)
 - [Disconnect](https://search.disconnect.me/)
 
 
-###Mobile Devices
+### Mobile Devices
 - Disabling services
 	- Airplane mode
 	- No Bluetooth
@@ -855,7 +855,7 @@ Chat / Text / Audio (voice) / Video
 	- iOS
 
 
-###Storage
+### Storage
 - [SpiderOak](https://spideroak.com/getstarted)
 - [Tresorit](https://tresorit.com/)
 - [OwnCloud](https://owncloud.org/install/)
@@ -865,7 +865,7 @@ Chat / Text / Audio (voice) / Video
 - [Cryptomator](https://cryptomator.org/)
 
 
-###Password Manager
+### Password Manager
 - [Keepass](http://keepass.info/) / [KeePassX](https://www.keepassx.org/)
 - [Masterpassword](https://ssl.masterpasswordapp.com/)
 - [LastPass](https://lastpass.com/)
@@ -873,14 +873,14 @@ Chat / Text / Audio (voice) / Video
 - [Encryptr](https://spideroak.com/solutions/encryptr "Cloud Based Zero-Knowledge")
 
 
-###Password Generator
+### Password Generator
 - [Privacy Tools](https://www.privacytools.io/password.html "Client Side Secure Password Generator")
 - [Keepass](http://keepass.info/) / [KeePassX](https://www.keepassx.org/)
 - [SuperGenPass](https://chriszarate.github.io/supergenpass/) / [GenPass](http://genpass.supergenpass.com/)
 - [Password Safe - Simple & Secure Password Management](http://pwsafe.org/)
 
 
-###Disk Encryption
+### Disk Encryption
 - BitLocker (Windows 8+)
 - FileVault2
 - LUKS (Linux Unified Key Setup)
@@ -896,7 +896,7 @@ Chat / Text / Audio (voice) / Video
 - OSX Disk Utility
 
 
-###Metadata
+### Metadata
 - exiftool
 - [optipng](http://optipng.sourceforge.net/)
 - [jpegoptim](https://github.com/tjko/jpegoptim)
@@ -904,7 +904,7 @@ Chat / Text / Audio (voice) / Video
 	- ffmpeg -i in.file -map_metadata -1 -c:v copy -c:a copy out.file
 
 
-###Social Networks
+### Social Networks
 - Diaspora
 - Friendica
 - Gnusocial
@@ -912,12 +912,12 @@ Chat / Text / Audio (voice) / Video
 
 
 
-##Actions to take
+## Actions to take
 To enact privacy choices while using common devices, operating systems, and other products
 
 
 
-###Operating systems
+### Operating systems
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10/)
 - [OSX](http://www.apple.com/macos/)
 - Linux
@@ -928,7 +928,7 @@ To enact privacy choices while using common devices, operating systems, and othe
 
 
 
-###Windows
+### Windows
 
 
 ![Windows](win1.png "Windows Settings")
@@ -1033,7 +1033,7 @@ https://gist.github.com/shrayasr/d3a4987ebd5b508f6490
 
 
 
-###OSX
+### OSX
 
 
 https://github.com/drduh
@@ -1061,7 +1061,7 @@ You may also wish to enable stealth mode:
 ![Show Requests](mac_show_requests.png)
 
 
-####Daemons/Agents
+#### Daemons/Agents
 
 
 |Type|Location|Run on behalf of|
@@ -1073,7 +1073,7 @@ You may also wish to enable stealth mode:
 |System Daemons|/System/Library/LaunchDaemons|root or the user specified with the key User|
 
 
-###What is running?
+### What is running?
 
 Current user
 
@@ -1084,7 +1084,7 @@ root for the current user
 	$ sudo launchctl list
 
 
-###What is that thing?
+### What is that thing?
 
 defaults read $LOCATION/$PLISTNAME
 
@@ -1092,7 +1092,7 @@ defaults read $LOCATION/$PLISTNAME
 	$ defaults read /System/Library/LaunchDaemons/com.apple.airplaydiagnostics.server.mac.plist
 
 
-###Still confused?
+### Still confused?
 
 - http://cirrusj.github.io/Yosemite-Stop-Launch/
 - Entries for Program/Program Arguments
@@ -1102,151 +1102,151 @@ defaults read $LOCATION/$PLISTNAME
 - start/stop
 
 
-###Tested Defaults
+### Tested Defaults
 Please exercise caution
 
 
-#### Disable Resume system-wide
+####  Disable Resume system-wide
 	defaults write com.apple.systempreferences NSQuitAlwaysKeepsWindows -bool false
 	defaults write NSGlobalDomain NSQuitAlwaysKeepsWindows -bool false
 
 
-#### Disable the crash reporter
+####  Disable the crash reporter
 	defaults write com.apple.CrashReporter DialogType -string "none"
 
 
-#### Stop Google Chrome from automatically updating
+####  Stop Google Chrome from automatically updating
 
 	defaults write com.google.Keystone.Agent checkInterval 0
 
-#### Run manually
+####  Run manually
 
 	/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/Resources/
 
 
-#### Disable Notification Center and remove the menu bar icon
+####  Disable Notification Center and remove the menu bar icon
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.notificationcenterui.plist 2> /dev/null
 
 
-#### Overwrite sleep image
+####  Overwrite sleep image
 
 	sudo touch /private/var/vm/sleepimage
 	
-#### and make sure it can’t be rewritten
+####  and make sure it can’t be rewritten
 
 	sudo chflags uchg /private/var/vm/sleepimage
 
 
-#### Stop iTunes from responding to the keyboard media keys
+####  Stop iTunes from responding to the keyboard media keys
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist 2> /dev/null
 
 
-#### Empty Trash securely by default
+####  Empty Trash securely by default
 
 	defaults write com.apple.finder EmptyTrashSecurely -bool true
 
 
-#### do not ask for new devices to be time machine backup
+####  do not ask for new devices to be time machine backup
 
 	defaults write com.apple.TimeMachine DoNotOfferNewDisksForBackup -bool true
 
 
-#### disable local time machine backups
+####  disable local time machine backups
 
 	hash tmutil &> /dev/null && sudo tmutil disablelocal
 
 
-####turn on the OSX firewall (alf)
+#### turn on the OSX firewall (alf)
 
 	sudo defaults write /Library/Preferences/com.apple.alf globalstate -bool true
 
 
-####turn on logging for the OSX firewall (alf)
+#### turn on logging for the OSX firewall (alf)
 
 	sudo defaults write /Library/Preferences/com.apple.alf loggingenabled -bool true
 
 
-####enable ICMP ping stealth
+#### enable ICMP ping stealth
 
 	sudo defaults write /Library/Preferences/com.apple.alf stealthenabled -bool true
 
 
-####Disable firewall-free operations for "signed" applications
-####This may lead to a "noisy" experience until each installed application is configured
+#### Disable firewall-free operations for "signed" applications
+#### This may lead to a "noisy" experience until each installed application is configured
 
 	sudo defaults write /Library/Preferences/com.apple.alf allowsignedenabled -bool false
 
 
-####Disable captive portal handling service -- use a browser instead
+#### Disable captive portal handling service -- use a browser instead
 
 	sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.captive.control Active -bool false
 
 
-####Disable Apple Push Notification Service daemon
+#### Disable Apple Push Notification Service daemon
 
 https://apple.stackexchange.com/questions/92214/how-to-disable-apple-push-notification-service-apsd-on-os-x-10-8
 
 	sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.apsd.plist
 
-####Re-enable Apple Push Notification Service daemon
+#### Re-enable Apple Push Notification Service daemon
 
 	#sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.apsd.plist
 
 
-####DNS services - safer without this, but DNS really doesn't work without it (problems anyone?)
+#### DNS services - safer without this, but DNS really doesn't work without it (problems anyone?)
 
 	sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.mDNSResponder*
 	#sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.mDNSResponder.plist
 	#sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.mDNSResponderHelper.plist
 
 
-####This is the launchd configuration file for DumpPanic, an application that dumps kernel panic information from NVRAM and saves it. If "Diagnostics & Usage" (under "Privacy") in the Settings app is set to "Automatically Send", the information is eventually submitted to Apple. 
+#### This is the launchd configuration file for DumpPanic, an application that dumps kernel panic information from NVRAM and saves it. If "Diagnostics & Usage" (under "Privacy") in the Settings app is set to "Automatically Send", the information is eventually submitted to Apple. 
 
 	sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.DumpPanic.plist
 
 
-####disable reporting crash data to Apple
+#### disable reporting crash data to Apple
 
 	sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.CrashReporterSupportHelper.plist
 
 
-####Part of the CoreRAID private framework
+#### Part of the CoreRAID private framework
 
 	sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.CoreRAID.plist
 
 
-#### Disable ichat
+####  Disable ichat
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.soagent.plist
 
 
-####disable social push for facebook, linkedin, tencentweibo, twitter, and weibo
+#### disable social push for facebook, linkedin, tencentweibo, twitter, and weibo
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.SocialPushAgent.plist
 
 
-#### sharingd -- Sharing Daemon that enables AirDrop, Shared Computers, and Remote Disc in the Finder.
+####  sharingd -- Sharing Daemon that enables AirDrop, Shared Computers, and Remote Disc in the Finder.
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.sharingd.plist
 
-####This can be re-enabled on demand
+#### This can be re-enabled on demand
 
 	launchctl load -w /System/Library/LaunchAgents/com.apple.sharingd.plist
 
 
-####app store linked game center notification push services
+#### app store linked game center notification push services
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.gamed.plist
 
 
-####disable AirPlay
+#### disable AirPlay
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.AirPlayUIAgent.plist
 
 
-####disable appleseed (part of the Feedback Assistant)
+#### disable appleseed (part of the Feedback Assistant)
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.appleseed.seedusaged.plist
 
@@ -1256,81 +1256,81 @@ https://apple.stackexchange.com/questions/92214/how-to-disable-apple-push-notifi
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.WebKit.PluginAgent.plist
 
 
-####related to scoped bookmarks.  some reports of keychain agent effects with this one
+#### related to scoped bookmarks.  some reports of keychain agent effects with this one
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.scopedbookmarkagent.xpc.plist
 
 
-####disable dictation and speech STT
+#### disable dictation and speech STT
 	launchctl unload -w  /System/Library/LaunchAgents/com.apple.assistant*
 
-####disables the following:
+#### disables the following:
 
 	launchctl unload -w  /System/Library/LaunchAgents/com.apple.assistantd.plist
 	launchctl unload -w  /System/Library/LaunchAgents/com.apple.assistant_service.plist
 
 
-####disable agent to handle AirPort Base Station and Time Capsule (not advised if you use these things)
+#### disable agent to handle AirPort Base Station and Time Capsule (not advised if you use these things)
 
 	launchctl unload -w  /System/Library/LaunchAgents/com.apple.AirPortBaseStationAgent.plist
 
 
-####disable agent to handle AirPort Base Station and Time Capsule (not advised if you use these things)
+#### disable agent to handle AirPort Base Station and Time Capsule (not advised if you use these things)
 
 	launchctl unload -w  /System/Library/LaunchAgents/com.apple.AirPortBaseStationAgent.plist
 
 
-####iCloud notification related service
+#### iCloud notification related service
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.AOSPushRelay.plist
 
 
-####icloud
+#### icloud
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.icloud*
 
 
-####iCloud photos sync?
+#### iCloud photos sync?
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.photolibraryd.plist
 
 
-####disable pushing history to the cloud
+#### disable pushing history to the cloud
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.SafariCloudhistoryPushAgent.plist
 
 
-####disable address book services
+#### disable address book services
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.AddressBook*
 
 
-####rcd routes media transport key and remote controller commands to the appropriate applications
+#### rcd routes media transport key and remote controller commands to the appropriate applications
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist
 
 
-####family control services
+#### family control services
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.family*
 
 
-####parental controls
+#### parental controls
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.parentalcontrols.check.plist
 
 
-####talagent is the helper agent for the Transparent App Lifecycle feature. (talagent can be run manually/independent of daemon usage)
+#### talagent is the helper agent for the Transparent App Lifecycle feature. (talagent can be run manually/independent of daemon usage)
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.talagent.plist
 
 
-####disable bluetooth audio
+#### disable bluetooth audio
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.bluetoothAudioAgent.plist
 
 
-####disable all bluetooth (do not expect bluetooth to work)
+#### disable all bluetooth (do not expect bluetooth to work)
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.bluetoothUIServer.plist
 
@@ -1340,12 +1340,12 @@ https://apple.stackexchange.com/questions/92214/how-to-disable-apple-push-notifi
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.metadata.mdwrite.plist
 
 
-####VoiceOver.app for accessibility
+#### VoiceOver.app for accessibility
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.VoiceOver.plist
 
 
-####Spindump
+#### Spindump
 
 Spindump is used by various system components to create reports when an unresponsive application is force quit.
 
@@ -1359,93 +1359,93 @@ For normal application force quits spindump will display a dialog to offer the c
 ####sync for some uid and server
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.syncservices.*
-	#launchctl unload -w /System/Library/LaunchAgents/com.apple.syncservices.uihandler.plist
-	#launchctl unload -w /System/Library/LaunchAgents/com.apple.syncservices.SyncServer.plist
+	# launchctl unload -w /System/Library/LaunchAgents/com.apple.syncservices.uihandler.plist
+	# launchctl unload -w /System/Library/LaunchAgents/com.apple.syncservices.SyncServer.plist
 
 
-####disable speech services
+#### disable speech services
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.*
-	#launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.voiceinstallerd.plist
-	#launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.synthesisserver.plist
-	#launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.recognitionserver.plist
-	#launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.feedbackservicesserver.plist
-	#launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.speechdatainstallerd.plist
+	# launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.voiceinstallerd.plist
+	# launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.synthesisserver.plist
+	# launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.recognitionserver.plist
+	# launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.feedbackservicesserver.plist
+	# launchctl unload -w /System/Library/LaunchAgents/com.apple.speech.speechdatainstallerd.plist
 
 
-####app store related agent
+#### app store related agent
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.maspushagent.plist
 
 
-####pushes hardware and OSX details to apple
+#### pushes hardware and OSX details to apple
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.Maps.pushdaemon.plist
 
 
-####disable screensharing
+#### disable screensharing
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.screensharing.*
-	#launchctl unload -w /System/Library/LaunchAgents/com.apple.screensharing.agent.plist
-	#launchctl unload -w /System/Library/LaunchAgents/com.apple.screensharing.MessagesAgent.plist
+	# launchctl unload -w /System/Library/LaunchAgents/com.apple.screensharing.agent.plist
+	# launchctl unload -w /System/Library/LaunchAgents/com.apple.screensharing.MessagesAgent.plist
 
 
-####disable remote desktop
+#### disable remote desktop
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.RemoteDesktop.plist
 
 
-####FindMyMac.app location agent
+#### FindMyMac.app location agent
 
 https://www.stigviewer.com/stig/apple_os_x_10.9_mavericks_workstation/2015-02-26/finding/V-58353
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.findmymacmessenger.plist
 
 
-#### Disable NetBIOS daemon (netbiosd)
+####  Disable NetBIOS daemon (netbiosd)
 
 	sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.netbiosd.plist
 
 
-#### Disable Location Services (locationd)
+####  Disable Location Services (locationd)
 
 	sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.locationd.plist
 
 
-#### Disable QuickLook
+####  Disable QuickLook
 
 https://superuser.com/questions/617658/quicklooksatellite-mac-os-high-cpu-use
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.quicklook.*
 
 
-#### Disable Spotlight
+####  Disable Spotlight
 
 http://osxdaily.com/2011/12/10/disable-or-enable-spotlight-in-mac-os-x-lion/
 
 	sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
 
 
-####Must disable SIP first
-####AirPlayXPC
+#### Must disable SIP first
+#### AirPlayXPC
 
 	sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.AirPlayXPCHelper.plist
 
-####IMAgents for facetime
+#### IMAgents for facetime
 
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.ima*
 	launchctl unload -w /System/Library/LaunchAgents/com.apple.java*
 
 
-####DO NOT DO THIS ONE
+#### DO NOT DO THIS ONE
 
-	#launchctl -w /System /Library /LaunchAgents /com.apple.tccd.plist
+	# launchctl -w /System /Library /LaunchAgents /com.apple.tccd.plist
 
-#####BAD THINGS HAPPEN
+##### BAD THINGS HAPPEN
 
 
 
-###Mobile platforms
+### Mobile platforms
 - [iOS](http://www.apple.com/ios/)
 - [Android](https://www.android.com/)
 	- [FDroid](http://download.fsfe.org/advocacy/promomaterial/FYA/Fdroid-leaflet/fdroid-leaflet.en.pdf)
@@ -1459,7 +1459,7 @@ http://osxdaily.com/2011/12/10/disable-or-enable-spotlight-in-mac-os-x-lion/
 
 
 
-###Firewalls
+### Firewalls
 - [pfSense](https://www.pfsense.org/)
 	- DNS resolver
 - Windows
@@ -1473,3 +1473,4 @@ http://osxdaily.com/2011/12/10/disable-or-enable-spotlight-in-mac-os-x-lion/
 	- IPCop
 - OpenBSD
 	- PF
+
